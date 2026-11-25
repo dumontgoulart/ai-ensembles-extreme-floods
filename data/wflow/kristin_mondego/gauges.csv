@@ -1,0 +1,6 @@
+id,x,y,name,river,source,station,official_km2,notes
+6114300,-8.43083,40.20417,Mondego at Coimbra (Acude-Ponte),Mondego,grdc,6114300,4929.0,"headline; regulated (Aguieira, Raiva); OE/APA report: peak ~1,750 m3/s around 30 Jan (read off a figure, context only); contains the others"
+9112013,-7.98917,40.27083,Alva at Ponte Coja,Alva,grdc,9112013,435.0,nested in Coimbra; no observation
+9112007,-7.9725,40.52083,Dao at Caldas de S. Gemil,Dao,grdc,9112007,617.0,nested in Coimbra; no observation
+6114500,-7.5225,40.6125,Mondego at Ponte de Ioncais,Mondego,grdc,6114500,606.0,upper Mondego; no observation
+9112008,-7.68083,40.6625,Dao at Ponte de Santa Clara,Dao,grdc,9112008,177.0,nested in Dao at Caldas de S. Gemil; no observation

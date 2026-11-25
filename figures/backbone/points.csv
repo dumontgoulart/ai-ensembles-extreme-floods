@@ -1,0 +1,76 @@
+event,title,slug,gauge,name,area_km2,ref_rain_mm,ref_peak,ref_spec_peak,obs_peak,independent,merged_into
+catalonia,"Catalonia, Oct 2026",catalonia_2026,1,BE-20,1018.250,181.373,1582.514,1.554,936.960,False,BE-10
+catalonia,"Catalonia, Oct 2026",catalonia_2026,2,BE-10,181.010,228.976,367.522,2.030,229.752,True,
+catalonia,"Catalonia, Oct 2026",catalonia_2026,3,BE-15,220.550,153.603,336.898,1.528,199.600,True,
+catalonia,"Catalonia, Oct 2026",catalonia_2026,4,BE-07,150.000,178.241,175.905,1.173,183.956,True,
+catalonia,"Catalonia, Oct 2026",catalonia_2026,5,BE-05,146.270,142.900,91.151,0.623,67.166,True,
+catalonia,"Catalonia, Oct 2026",catalonia_2026,6,TO-20,776.560,157.307,350.766,0.452,260.992,False,TO-10
+catalonia,"Catalonia, Oct 2026",catalonia_2026,7,TO-10,124.620,200.695,118.628,0.952,97.185,True,
+catalonia,"Catalonia, Oct 2026",catalonia_2026,8,TO-05,47.330,185.972,24.495,0.518,23.220,False,TO-10
+catalonia,"Catalonia, Oct 2026",catalonia_2026,9,TO-15,322.210,119.733,102.467,0.318,47.813,True,
+catalonia,"Catalonia, Oct 2026",catalonia_2026,10,RM-05,11.800,218.623,19.416,1.645,15.527,True,
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,1,Nysa Kłodzka Bardo,1736.100,241.292,1631.222,0.940,1350.000,False,Biała Lądecka Lądek-Zd
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,2,Nysa Kłodzka Kłodzko,1082.000,272.582,1140.451,1.054,1060.000,False,Biała Lądecka Lądek-Zd
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,3,Nysa Kłodzka Bystrzyca,259.000,303.539,326.681,1.261,495.000,False,Nysa Kłodzka Międzyles
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,4,Biała Lądecka Żelazno,300.900,349.120,428.717,1.425,675.000,False,Biała Lądecka Lądek-Zd
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,5,Biała Lądecka Lądek-Zd,169.900,383.999,247.310,1.456,675.000,True,
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,6,Ścinawka Gorzuchów,518.300,190.177,398.639,0.769,251.000,True,
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,7,Nysa Kłodzka Międzyles,49.500,317.103,66.071,1.335,85.600,True,
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,8,Biała Głuchołaska Głuc,284.900,429.993,494.350,1.735,1.600,True,
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,9,Bělá Mikulovice,222.700,444.980,375.622,1.687,565.000,False,Biała Głuchołaska Głuc
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,10,Bělá Jeseník,118.100,446.039,152.605,1.292,324.000,False,Biała Głuchołaska Głuc
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,11,Vidnavka Vidnava,151.900,364.248,239.040,1.574,316.000,True,
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,12,Opava Karlovice,150.700,340.707,88.857,0.590,329.000,False,Černá Opava Mnichov
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,13,Černá Opava Mnichov,50.800,382.210,44.832,0.883,135.000,True,
+jesenik,"Storm Boris, Jeseníky/Kłodzko, Sep 2024",boris_sudetes,15,Černý potok Velká Kraš,62.500,343.504,94.542,1.513,160.000,False,Vidnavka Vidnava
+texas25,"Central Texas, Jul 2025",texas_2025,1,Guadalupe Center Point,1669.300,185.356,2666.792,1.598,,False,Guadalupe Hunt
+texas25,"Central Texas, Jul 2025",texas_2025,2,N Fk Guadalupe Hunt,436.900,147.805,467.869,1.071,1659.364,False,Guadalupe Hunt
+texas25,"Central Texas, Jul 2025",texas_2025,3,Guadalupe Hunt,745.400,198.305,1917.529,2.572,8919.792,True,
+texas25,"Central Texas, Jul 2025",texas_2025,4,Johnson Ck Ingram,294.600,210.724,566.869,1.924,543.683,True,
+texas25,"Central Texas, Jul 2025",texas_2025,5,Guadalupe Kerrville,1326.100,198.547,2361.914,1.781,8438.406,False,Guadalupe Hunt
+texas26,"Texas Hill Country, Jul 2026",texas_2026,1,Pedernales Rv Frederic,956.000,288.307,2171.145,2.271,2109.602,True,
+texas26,"Texas Hill Country, Jul 2026",texas_2026,2,Guadalupe Rv Comfort,2173.000,262.863,4143.068,1.907,5663.360,True,
+texas26,"Texas Hill Country, Jul 2026",texas_2026,3,Cibolo Ck Saint Hedwig,793.000,237.201,1421.276,1.792,824.019,True,
+texas26,"Texas Hill Country, Jul 2026",texas_2026,4,Medina Rv abv English ,1222.000,240.986,1023.455,0.838,345.465,True,
+mississippi,"Mississippi Gulf Coast, Jun 2026",mississippi_2026,1,Biloxi R Wortham,249.000,372.629,1025.424,4.118,756.059,True,
+mississippi,"Mississippi Gulf Coast, Jun 2026",mississippi_2026,2,Red Creek Vestry,1142.000,334.037,3020.319,2.645,1302.573,True,
+mississippi,"Mississippi Gulf Coast, Jun 2026",mississippi_2026,3,Wolf R Landon,798.000,233.873,1733.920,2.173,880.652,True,
+mississippi,"Mississippi Gulf Coast, Jun 2026",mississippi_2026,4,Okatoma Ck Sanford,666.000,129.124,265.238,0.398,353.960,True,
+helene,"Hurricane Helene, Sep 2024",helene_2024,1,French Broad R Ashevil,2447.500,418.076,6471.998,2.644,3199.798,False,Swannanoa R Biltmore
+helene,"Hurricane Helene, Sep 2024",helene_2024,2,Mills River Mills Rive,172.800,392.848,418.871,2.424,826.851,True,
+helene,"Hurricane Helene, Sep 2024",helene_2024,3,Swannanoa R Biltmore,336.700,425.905,1184.397,3.518,1721.661,True,
+helene,"Hurricane Helene, Sep 2024",helene_2024,4,South Toe R Celo,112.100,613.793,823.979,7.350,2007.661,True,
+helene,"Hurricane Helene, Sep 2024",helene_2024,5,Cataloochee Cr Cataloo,127.400,250.673,112.896,0.886,362.455,True,
+helene,"Hurricane Helene, Sep 2024",helene_2024,6,Catawba R Pleasant Gar,326.300,502.878,1585.777,4.860,1200.632,True,
+hans,"Storm Hans, Aug 2023",hans_2023,12700,Randselva Etna,568.530,143.239,355.827,0.626,235.423,True,
+hans,"Storm Hans, Aug 2023",hans_2023,121140,Sogna Sogna v/Gardhamm,492.330,117.483,197.300,0.401,189.064,True,
+hans,"Storm Hans, Aug 2023",hans_2023,1280,Dokka Grønvold bru,934.300,121.431,259.961,0.278,773.820,True,
+hans,"Storm Hans, Aug 2023",hans_2023,121970,Grunka Grunke,184.690,149.157,80.161,0.434,169.787,False,Åbjøra Tisleifjord ndf
+hans,"Storm Hans, Aug 2023",hans_2023,121710,Hølera Hølervatn,79.400,132.709,36.709,0.462,40.494,True,
+hans,"Storm Hans, Aug 2023",hans_2023,121500,Rukkedøla Buvatn,25.050,114.518,11.496,0.459,7.827,True,
+hans,"Storm Hans, Aug 2023",hans_2023,12970,Hallingdalsvassdra Ber,4232.440,120.909,1589.430,0.376,1412.780,False,Rukkedøla Buvatn
+hans,"Storm Hans, Aug 2023",hans_2023,12990,Hallingdalsvassdra Skå,5107.400,121.195,950.557,0.186,981.786,False,Rukkedøla Buvatn
+hans,"Storm Hans, Aug 2023",hans_2023,122900,Drammensvassdraget Bag,2980.460,131.536,1020.798,0.342,700.201,False,Åbjøra Tisleifjord ndf
+hans,"Storm Hans, Aug 2023",hans_2023,122000,Randselva Kolbjørnshus,2063.490,129.856,824.287,0.399,923.716,False,Randselva Etna
+hans,"Storm Hans, Aug 2023",hans_2023,121360,Åbjøra Tisleifjord ndf,620.320,153.658,294.827,0.475,204.199,True,
+hans,"Storm Hans, Aug 2023",hans_2023,125340,Drammensvassdraget Mjø,16989.230,120.594,1743.537,0.103,1944.145,False,Randselva Etna
+zermatt,"Valais / Vispa, Jun 2024",zermatt_2024,1,Vispa @ Visp,785.800,68.783,442.610,0.563,402.752,False,Saaser Vispa @ Stalden
+zermatt,"Valais / Vispa, Jun 2024",zermatt_2024,2,Matter Vispa @ Stalden,486.800,46.158,117.607,0.242,,False,Matter Vispa @ Zermatt
+zermatt,"Valais / Vispa, Jun 2024",zermatt_2024,3,Saaser Vispa @ Stalden,251.300,97.350,155.589,0.619,,True,
+zermatt,"Valais / Vispa, Jun 2024",zermatt_2024,4,Matter Vispa @ Zermatt,227.600,51.982,93.513,0.411,,True,
+california,"California ARs, Dec 2022 - Jan 2023",california_2023,1,Arroyo Seco Soledad,632.000,171.918,1238.979,1.960,869.326,True,
+california,"California ARs, Dec 2022 - Jan 2023",california_2023,2,Cosumnes R Michigan Ba,1388.000,246.920,2238.585,1.613,1922.711,True,
+california,"California ARs, Dec 2022 - Jan 2023",california_2023,3,San Lorenzo R Big Tree,275.000,190.309,526.227,1.914,580.494,True,
+california,"California ARs, Dec 2022 - Jan 2023",california_2023,4,Soquel C Soquel,104.000,158.739,199.975,1.923,263.629,True,
+kristin,"Storm Kristin, Jan 2026",kristin_mondego,6114300,Mondego Coimbra (Acude,4929.000,115.812,1705.965,0.346,,False,Alva Ponte Coja
+kristin,"Storm Kristin, Jan 2026",kristin_mondego,9112013,Alva Ponte Coja,435.000,121.384,150.747,0.347,,True,
+kristin,"Storm Kristin, Jan 2026",kristin_mondego,9112007,Dao Caldas de S. Gemil,617.000,103.294,151.035,0.245,,True,
+kristin,"Storm Kristin, Jan 2026",kristin_mondego,6114500,Mondego Ponte de Ionca,606.000,93.186,39.326,0.065,,True,
+kristin,"Storm Kristin, Jan 2026",kristin_mondego,9112008,Dao Ponte de Santa Cla,177.000,93.001,24.889,0.141,,False,Dao Caldas de S. Gemil
+kristin,"Storm Kristin, Jan 2026",kristin_lis,9112019,Lis Agude do Arrabalde,268.000,73.883,57.370,0.214,,True,
+dana,"DANA, Valencia, Oct 2024",dana_2024,9000401,Poyo Riba-roja (SAIH 0,183.900,480.824,1490.864,8.107,2282.900,True,
+dana,"DANA, Valencia, Oct 2024",dana_2024,9000402,Poyo Paiporta,412.900,444.266,2957.066,7.162,,False,Poyo Riba-roja (SAIH 0
+dana,"DANA, Valencia, Oct 2024",dana_2024,9000403,Magro Forata reservoir,1075.100,228.836,1524.440,1.418,2008.808,False,Magro Carlet
+dana,"DANA, Valencia, Oct 2024",dana_2024,9000404,Magro Carlet,1615.600,293.062,4012.864,2.484,,True,
+dana,"DANA, Valencia, Oct 2024",dana_2024,6227130,Turia La Presa,6294.000,109.376,2601.126,0.413,1756.290,False,Turia Vilamarxant
+dana,"DANA, Valencia, Oct 2024",dana_2024,9000405,Turia Vilamarxant,5993.600,109.780,2639.382,0.440,1861.712,True,

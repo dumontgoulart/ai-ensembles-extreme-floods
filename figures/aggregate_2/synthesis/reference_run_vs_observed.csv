@@ -1,0 +1,67 @@
+event,gauge,code,area_km2,window_start,ref_peak,obs_peak,source,flag,ref_over_obs
+catalonia_2026,1,BE-20,1018.25,2026-10-03,1582.51,936.96,observation file,,1.69
+catalonia_2026,2,BE-10,181.01,2026-10-03,367.52,229.75,observation file,,1.60
+catalonia_2026,3,BE-15,220.55,2026-10-03,336.90,199.60,observation file,,1.69
+catalonia_2026,4,BE-07,150.00,2026-10-03,175.91,183.96,observation file,,0.96
+catalonia_2026,5,BE-05,146.27,2026-10-03,91.15,67.17,observation file,,1.36
+catalonia_2026,6,TO-20,776.56,2026-10-03,350.77,260.99,observation file,,1.34
+catalonia_2026,7,TO-10,124.62,2026-10-03,118.63,97.19,observation file,,1.22
+catalonia_2026,8,TO-05,47.33,2026-10-03,24.50,23.22,observation file,,1.05
+catalonia_2026,9,TO-15,322.21,2026-10-03,102.47,47.81,observation file,,2.14
+catalonia_2026,10,RM-05,11.80,2026-10-03,19.42,15.53,observation file,,1.25
+boris_sudetes,1,Nysa Kłodzka Bardo,1736.10,2024-09-12,1631.22,1350.00,observation file,,1.21
+boris_sudetes,2,Nysa Kłodzka Kłodzko,1082.00,2024-09-12,1140.45,1060.00,observation file,,1.08
+boris_sudetes,3,Nysa Kłodzka Bystrzyca,259.00,2024-09-12,326.68,495.00,observation file,,0.66
+boris_sudetes,4,Biała Lądecka Żelazno,300.90,2024-09-12,428.72,675.00,observation file,,0.64
+boris_sudetes,5,Biała Lądecka Lądek-Zd,169.90,2024-09-12,247.31,675.00,observation file,,0.37
+boris_sudetes,6,Ścinawka Gorzuchów,518.30,2024-09-12,398.64,251.00,observation file,,1.59
+boris_sudetes,7,Nysa Kłodzka Międzyles,49.50,2024-09-12,66.07,85.60,observation file,,0.77
+boris_sudetes,8,Biała Głuchołaska Głuc,284.90,2024-09-12,494.35,1.60,observation file,exclude: record lost at the peak,308.97
+boris_sudetes,9,Bělá Mikulovice,222.70,2024-09-12,375.62,565.00,observation file,,0.66
+boris_sudetes,10,Bělá Jeseník,118.10,2024-09-12,152.60,324.00,observation file,,0.47
+boris_sudetes,11,Vidnavka Vidnava,151.90,2024-09-12,239.04,316.00,observation file,,0.76
+boris_sudetes,12,Opava Karlovice,150.70,2024-09-12,88.86,329.00,observation file,,0.27
+boris_sudetes,13,Černá Opava Mnichov,50.80,2024-09-12,44.83,135.00,observation file,,0.33
+boris_sudetes,15,Černý potok Velká Kraš,62.50,2024-09-12,94.54,160.00,observation file,,0.59
+texas_2025,2,N Fk Guadalupe Hunt,436.90,2025-07-04,467.87,1659.36,observation file,,0.28
+texas_2025,3,Guadalupe Hunt,745.40,2025-07-04,1917.53,8919.79,observation file,,0.21
+texas_2025,4,Johnson Ck Ingram,294.60,2025-07-04,566.87,543.68,observation file,,1.04
+texas_2025,5,Guadalupe Kerrville,1326.10,2025-07-04,2361.91,8438.41,observation file,,0.28
+texas_2026,1,Pedernales Rv Frederic,956.00,2026-07-14,2171.14,2109.60,observation file,,1.03
+texas_2026,2,Guadalupe Rv Comfort,2173.00,2026-07-14,4143.07,5663.36,observation file,,0.73
+texas_2026,3,Cibolo Ck Saint Hedwig,793.00,2026-07-14,1421.28,824.02,observation file,,1.72
+texas_2026,4,Medina Rv abv English ,1222.00,2026-07-14,1023.46,345.46,observation file,,2.96
+mississippi_2026,1,Biloxi R Wortham,249.00,2026-06-17,1025.42,756.06,observation file,,1.36
+mississippi_2026,2,Red Creek Vestry,1142.00,2026-06-17,3020.32,1302.57,observation file,,2.32
+mississippi_2026,3,Wolf R Landon,798.00,2026-06-17,1733.92,880.65,observation file,,1.97
+mississippi_2026,4,Okatoma Ck Sanford,666.00,2026-06-17,265.24,353.96,observation file,,0.75
+helene_2024,1,French Broad R Ashevil,2447.50,2024-09-25,6472.00,3199.80,observation file,,2.02
+helene_2024,2,Mills River Mills Rive,172.80,2024-09-25,418.87,826.85,observation file,,0.51
+helene_2024,3,Swannanoa R Biltmore,336.70,2024-09-25,1184.40,1721.66,observation file,,0.69
+helene_2024,4,South Toe R Celo,112.10,2024-09-25,823.98,2007.66,observation file,,0.41
+helene_2024,5,Cataloochee Cr Cataloo,127.40,2024-09-25,112.90,362.45,observation file,,0.31
+helene_2024,6,Catawba R Pleasant Gar,326.30,2024-09-25,1585.78,1200.63,observation file,,1.32
+hans_2023,12700,Randselva Etna,568.53,2023-08-07,355.83,235.42,observation file,,1.51
+hans_2023,121140,Sogna Sogna v/Gardhamm,492.33,2023-08-07,197.30,189.06,observation file,,1.04
+hans_2023,1280,Dokka Grønvold bru,934.30,2023-08-07,259.96,773.82,observation file,,0.34
+hans_2023,121970,Grunka Grunke,184.69,2023-08-07,80.16,169.79,observation file,,0.47
+hans_2023,121710,Hølera Hølervatn,79.40,2023-08-07,36.71,40.49,observation file,,0.91
+hans_2023,121500,Rukkedøla Buvatn,25.05,2023-08-07,11.50,7.83,observation file,,1.47
+hans_2023,12970,Hallingdalsvassdra Ber,4232.44,2023-08-07,1589.43,1412.78,observation file,,1.13
+hans_2023,12990,Hallingdalsvassdra Skå,5107.40,2023-08-07,950.56,981.79,observation file,,0.97
+hans_2023,122900,Drammensvassdraget Bag,2980.46,2023-08-07,1020.80,700.20,observation file,,1.46
+hans_2023,122000,Randselva Kolbjørnshus,2063.49,2023-08-07,824.29,923.72,observation file,,0.89
+hans_2023,121360,Åbjøra Tisleifjord ndf,620.32,2023-08-07,294.83,204.20,observation file,,1.44
+hans_2023,125340,Drammensvassdraget Mjø,16989.23,2023-08-07,1743.54,1944.14,observation file,,0.90
+zermatt_2024,1,Vispa @ Visp,785.80,2024-06-29,442.61,402.75,observation file,,1.10
+california_2023,1,Arroyo Seco Soledad,632.00,2023-01-08,1238.98,869.33,observation file,,1.43
+california_2023,2,Cosumnes R Michigan Ba,1388.00,2022-12-30,2238.59,1922.71,observation file,,1.16
+california_2023,3,San Lorenzo R Big Tree,275.00,2023-01-08,526.23,580.49,observation file,,0.91
+california_2023,4,Soquel C Soquel,104.00,2022-12-30,199.97,263.63,observation file,,0.76
+kristin_mondego,6114300,Mondego Coimbra (Acude,4929.00,2026-01-27,1705.96,1750.00,"OE/APA report, digitised (±20 m3/s)",,0.97
+dana_2024,9000401,Poyo Riba-roja (SAIH 0,183.90,2024-10-29,1490.86,2282.90,observation file,lower bound: sensor lost,0.65
+dana_2024,9000402,Poyo Paiporta,412.90,2024-10-29,2957.07,5700.00,"reconstructed 5,700-7,700 (lower end)",lower bound: reconstruction range,0.52
+dana_2024,9000403,Magro Forata reservoir,1075.10,2024-10-29,1524.44,2008.81,observation file,,0.76
+dana_2024,9000404,Magro Carlet,1615.60,2024-10-29,4012.86,4198.00,published (Muñoz et al. 2025),,0.96
+dana_2024,6227130,Turia La Presa,6294.00,2024-10-29,2601.13,1756.29,observation file,lower bound: sensor lost,1.48
+dana_2024,9000405,Turia Vilamarxant,5993.60,2024-10-29,2639.38,1861.71,observation file,,1.42

@@ -1,0 +1,62 @@
+event,slug,gauge,start,winner,IFS,AIFS,WN2
+catalonia,catalonia_2026,2,long (-7 d),tie,106.144,104.393,104.818
+catalonia,catalonia_2026,2,medium (-2 d),tie,102.964,107.298,102.834
+catalonia,catalonia_2026,2,short (-1 d),tie,102.709,106.836,105.141
+catalonia,catalonia_2026,3,long (-7 d),tie,83.074,80.386,81.863
+catalonia,catalonia_2026,3,medium (-2 d),tie,74.289,81.654,72.928
+catalonia,catalonia_2026,3,short (-1 d),IFS,68.248,78.888,76.679
+catalonia,catalonia_2026,4,long (-7 d),tie,62.372,61.054,60.990
+catalonia,catalonia_2026,4,medium (-2 d),tie,60.617,62.776,59.220
+catalonia,catalonia_2026,4,short (-1 d),tie,59.066,62.233,60.711
+catalonia,catalonia_2026,5,long (-7 d),AIFS & WN2,31.721,29.900,29.303
+catalonia,catalonia_2026,5,medium (-2 d),WN2,30.575,32.100,28.950
+catalonia,catalonia_2026,5,short (-1 d),tie,29.932,32.017,30.323
+catalonia,catalonia_2026,7,long (-7 d),tie,49.523,48.903,48.699
+catalonia,catalonia_2026,7,medium (-2 d),tie,47.608,50.057,47.809
+catalonia,catalonia_2026,7,short (-1 d),tie,48.377,49.859,48.813
+catalonia,catalonia_2026,9,long (-7 d),tie,19.942,20.001,20.290
+catalonia,catalonia_2026,9,medium (-2 d),WN2,17.250,20.321,16.020
+catalonia,catalonia_2026,9,short (-1 d),IFS,16.369,20.443,17.648
+catalonia,catalonia_2026,10,long (-7 d),tie,54.508,53.829,54.126
+catalonia,catalonia_2026,10,medium (-2 d),tie,51.865,55.226,51.156
+catalonia,catalonia_2026,10,short (-1 d),tie,51.973,54.702,52.827
+kristin,kristin_lis,9112019,long (-7 d),IFS,5.214,10.648,8.483
+kristin,kristin_lis,9112019,medium (-2 d),WN2,11.658,2.956,1.961
+kristin,kristin_lis,9112019,short (-1 d),WN2,3.821,2.235,1.834
+kristin,kristin_mondego,6114500,long (-7 d),IFS,2.611,7.612,4.312
+kristin,kristin_mondego,6114500,medium (-2 d),WN2,8.791,2.383,1.363
+kristin,kristin_mondego,6114500,short (-1 d),WN2,1.402,1.301,0.796
+kristin,kristin_mondego,9112007,long (-7 d),IFS,8.071,20.767,13.581
+kristin,kristin_mondego,9112007,medium (-2 d),WN2,32.877,10.356,8.663
+kristin,kristin_mondego,9112007,short (-1 d),WN2,4.514,6.233,2.741
+kristin,kristin_mondego,9112013,long (-7 d),WN2,10.346,14.263,9.063
+kristin,kristin_mondego,9112013,medium (-2 d),WN2,28.288,4.641,4.220
+kristin,kristin_mondego,9112013,short (-1 d),AIFS,4.073,3.154,4.260
+mississippi,mississippi_2026,1,long (-7 d),AIFS & WN2,335.228,317.977,333.168
+mississippi,mississippi_2026,1,medium (-2 d),AIFS & WN2,327.719,290.095,290.273
+mississippi,mississippi_2026,1,short (-1 d),AIFS & WN2,278.163,267.124,260.075
+mississippi,mississippi_2026,2,long (-7 d),AIFS,320.433,302.642,318.152
+mississippi,mississippi_2026,2,medium (-2 d),AIFS & WN2,309.445,278.877,276.941
+mississippi,mississippi_2026,2,short (-1 d),tie,255.729,247.500,245.780
+mississippi,mississippi_2026,3,long (-7 d),AIFS,242.227,223.519,241.747
+mississippi,mississippi_2026,3,medium (-2 d),AIFS & WN2,229.545,200.530,202.453
+mississippi,mississippi_2026,3,short (-1 d),AIFS & WN2,184.959,177.362,174.885
+mississippi,mississippi_2026,4,long (-7 d),AIFS,50.869,35.043,46.947
+mississippi,mississippi_2026,4,medium (-2 d),AIFS & WN2,28.687,14.783,15.370
+mississippi,mississippi_2026,4,short (-1 d),IFS,11.631,24.976,21.695
+texas25,texas_2025,3,medium (-2 d),AIFS & WN2,131.179,122.410,126.287
+texas25,texas_2025,3,short (-1 d),tie,128.306,125.011,127.734
+texas25,texas_2025,4,medium (-2 d),AIFS & WN2,130.771,122.842,125.517
+texas25,texas_2025,4,short (-1 d),tie,126.035,127.958,128.418
+texas26,texas_2026,1,long (-7 d),tie,174.897,174.897,174.538
+texas26,texas_2026,1,medium (-2 d),AIFS & WN2,169.957,147.928,146.485
+texas26,texas_2026,1,short (-1 d),WN2,172.965,157.267,148.533
+texas26,texas_2026,2,long (-7 d),tie,149.427,149.415,149.210
+texas26,texas_2026,2,medium (-2 d),AIFS & WN2,145.561,120.003,122.311
+texas26,texas_2026,2,short (-1 d),WN2,145.540,130.028,123.502
+texas26,texas_2026,3,long (-7 d),tie,132.332,131.782,131.806
+texas26,texas_2026,3,medium (-2 d),AIFS,130.585,106.473,119.087
+texas26,texas_2026,3,short (-1 d),AIFS & WN2,128.878,120.674,121.374
+texas26,texas_2026,4,long (-7 d),tie,124.955,124.925,124.348
+texas26,texas_2026,4,medium (-2 d),AIFS,122.071,94.955,99.722
+texas26,texas_2026,4,short (-1 d),AIFS & WN2,120.559,102.367,99.955

@@ -1,0 +1,5 @@
+id,x,y,name,river,class,uparea_km2,notes
+1,7.87542,46.29792,Vispa @ Visp,Vispa,mainstem,785.8,OUTLET - id MUST stay 1 (BAFU 2611)
+2,7.87208,46.23042,Matter Vispa @ Stalden,Matter Vispa,mainstem,486.8,"Zermatt/Taesch/Randa arm - carries the 21-22 Jun episode; model cell moved 18 Nov 2026 from (8,35) below the Saaser confluence (742 km2) to (8,34) on the Matter Vispa (485 km2)"
+3,7.88375,46.21625,Saaser Vispa @ Stalden,Saaser Vispa,mainstem,251.3,Saas-Grund arm - carries the 29-30 Jun episode; the outlet gauge alone would latch onto whichever episode is larger and silently ignore the other
+4,7.75458,46.02958,Matter Vispa @ Zermatt,Matter Vispa,mainstem,227.6,the Zermatt catchment proper - heavily glacierised headwater

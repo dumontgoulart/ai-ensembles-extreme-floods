@@ -1,0 +1,81 @@
+event,slug,gauge,bin,winner,IFS,AIFS,WN2
+catalonia,catalonia_2026,2,1.5-3.5 d,WN2,190.690,194.398,179.295
+catalonia,catalonia_2026,2,3.5-5.5 d,WN2,191.223,189.190,165.668
+catalonia,catalonia_2026,2,<1.5 d,tie,160.128,175.817,160.441
+catalonia,catalonia_2026,2,>=5.5 d,tie,192.292,200.737,198.952
+catalonia,catalonia_2026,3,1.5-3.5 d,tie,113.914,121.657,109.299
+catalonia,catalonia_2026,3,3.5-5.5 d,WN2,113.623,117.130,97.448
+catalonia,catalonia_2026,3,<1.5 d,IFS,84.667,106.134,94.172
+catalonia,catalonia_2026,3,>=5.5 d,IFS,116.880,126.205,125.335
+catalonia,catalonia_2026,4,1.5-3.5 d,WN2,146.279,147.448,135.094
+catalonia,catalonia_2026,4,3.5-5.5 d,WN2,143.892,143.209,122.646
+catalonia,catalonia_2026,4,<1.5 d,tie,118.590,132.234,117.399
+catalonia,catalonia_2026,4,>=5.5 d,tie,144.113,151.858,150.241
+catalonia,catalonia_2026,5,1.5-3.5 d,WN2,114.214,112.546,100.498
+catalonia,catalonia_2026,5,3.5-5.5 d,WN2,110.933,108.334,87.423
+catalonia,catalonia_2026,5,<1.5 d,WN2,88.294,96.871,81.290
+catalonia,catalonia_2026,5,>=5.5 d,tie,109.833,116.536,114.904
+catalonia,catalonia_2026,7,1.5-3.5 d,WN2,166.299,166.661,151.608
+catalonia,catalonia_2026,7,3.5-5.5 d,WN2,165.911,161.339,137.311
+catalonia,catalonia_2026,7,<1.5 d,tie,135.099,147.195,131.221
+catalonia,catalonia_2026,7,>=5.5 d,tie,164.708,172.561,170.429
+catalonia,catalonia_2026,9,1.5-3.5 d,WN2,84.330,84.742,70.102
+catalonia,catalonia_2026,9,3.5-5.5 d,WN2,82.640,77.808,56.191
+catalonia,catalonia_2026,9,<1.5 d,tie,49.083,61.721,48.121
+catalonia,catalonia_2026,9,>=5.5 d,IFS,83.482,90.326,88.885
+catalonia,catalonia_2026,10,1.5-3.5 d,WN2,178.800,180.390,163.019
+catalonia,catalonia_2026,10,3.5-5.5 d,WN2,180.295,174.405,147.964
+catalonia,catalonia_2026,10,<1.5 d,tie,145.062,158.515,142.979
+catalonia,catalonia_2026,10,>=5.5 d,tie,179.874,188.604,186.603
+kristin,kristin_lis,9112019,1.5-3.5 d,WN2,9.529,3.452,3.280
+kristin,kristin_lis,9112019,3.5-5.5 d,AIFS,10.526,4.505,4.929
+kristin,kristin_lis,9112019,<1.5 d,AIFS & WN2,4.747,2.938,2.885
+kristin,kristin_lis,9112019,>=5.5 d,WN2,7.106,5.691,4.471
+kristin,kristin_mondego,6114500,1.5-3.5 d,AIFS & WN2,11.063,7.088,6.925
+kristin,kristin_mondego,6114500,3.5-5.5 d,AIFS,9.779,6.152,7.579
+kristin,kristin_mondego,6114500,<1.5 d,AIFS,4.654,4.079,6.500
+kristin,kristin_mondego,6114500,>=5.5 d,WN2,10.918,7.948,7.387
+kristin,kristin_mondego,9112007,1.5-3.5 d,WN2,18.852,12.702,12.070
+kristin,kristin_mondego,9112007,3.5-5.5 d,AIFS,18.225,8.040,9.144
+kristin,kristin_mondego,9112007,<1.5 d,WN2,5.717,5.056,3.502
+kristin,kristin_mondego,9112007,>=5.5 d,AIFS & WN2,10.516,9.954,9.573
+kristin,kristin_mondego,9112013,1.5-3.5 d,AIFS,22.546,7.349,9.275
+kristin,kristin_mondego,9112013,3.5-5.5 d,AIFS,24.948,6.919,8.609
+kristin,kristin_mondego,9112013,<1.5 d,AIFS,7.057,5.936,7.300
+kristin,kristin_mondego,9112013,>=5.5 d,WN2,10.743,9.711,8.203
+mississippi,mississippi_2026,1,1.5-3.5 d,AIFS & WN2,300.671,269.007,268.476
+mississippi,mississippi_2026,1,3.5-5.5 d,AIFS & WN2,327.186,275.412,280.395
+mississippi,mississippi_2026,1,<1.5 d,tie,266.862,265.478,260.345
+mississippi,mississippi_2026,1,>=5.5 d,AIFS & WN2,331.043,302.186,309.177
+mississippi,mississippi_2026,2,1.5-3.5 d,AIFS & WN2,261.857,234.769,233.433
+mississippi,mississippi_2026,2,3.5-5.5 d,AIFS & WN2,290.214,242.603,248.032
+mississippi,mississippi_2026,2,<1.5 d,tie,226.969,228.978,222.453
+mississippi,mississippi_2026,2,>=5.5 d,AIFS & WN2,293.862,268.013,274.713
+mississippi,mississippi_2026,3,1.5-3.5 d,AIFS & WN2,160.609,133.091,132.973
+mississippi,mississippi_2026,3,3.5-5.5 d,AIFS,190.029,139.316,147.219
+mississippi,mississippi_2026,3,<1.5 d,AIFS & WN2,128.399,127.017,121.253
+mississippi,mississippi_2026,3,>=5.5 d,AIFS & WN2,193.527,167.180,175.116
+mississippi,mississippi_2026,4,1.5-3.5 d,WN2,53.219,50.654,46.705
+mississippi,mississippi_2026,4,3.5-5.5 d,AIFS & WN2,86.287,63.457,63.245
+mississippi,mississippi_2026,4,<1.5 d,IFS,30.965,49.314,32.759
+mississippi,mississippi_2026,4,>=5.5 d,AIFS,94.323,85.311,91.806
+texas25,texas_2025,3,1.5-3.5 d,AIFS & WN2,174.399,151.885,147.401
+texas25,texas_2025,3,<1.5 d,AIFS & WN2,159.865,149.900,144.852
+texas25,texas_2025,4,1.5-3.5 d,AIFS & WN2,188.336,167.978,161.396
+texas25,texas_2025,4,<1.5 d,AIFS & WN2,172.277,165.788,158.401
+texas26,texas_2026,1,1.5-3.5 d,AIFS & WN2,233.572,190.151,183.141
+texas26,texas_2026,1,3.5-5.5 d,WN2,260.971,246.406,219.306
+texas26,texas_2026,1,<1.5 d,AIFS & WN2,211.082,172.043,171.897
+texas26,texas_2026,1,>=5.5 d,WN2,268.809,266.147,253.344
+texas26,texas_2026,2,1.5-3.5 d,AIFS & WN2,204.774,153.849,149.924
+texas26,texas_2026,2,3.5-5.5 d,WN2,234.210,214.005,188.652
+texas26,texas_2026,2,<1.5 d,AIFS & WN2,179.941,133.039,139.606
+texas26,texas_2026,2,>=5.5 d,WN2,243.522,238.644,223.950
+texas26,texas_2026,3,1.5-3.5 d,AIFS,185.697,138.334,151.317
+texas26,texas_2026,3,3.5-5.5 d,WN2,208.085,182.999,168.785
+texas26,texas_2026,3,<1.5 d,AIFS,163.787,123.019,148.260
+texas26,texas_2026,3,>=5.5 d,WN2,216.498,209.248,196.298
+texas26,texas_2026,4,1.5-3.5 d,AIFS & WN2,178.696,123.576,128.505
+texas26,texas_2026,4,3.5-5.5 d,WN2,210.001,183.060,162.516
+texas26,texas_2026,4,<1.5 d,AIFS,151.333,101.011,119.965
+texas26,texas_2026,4,>=5.5 d,WN2,220.715,213.060,197.170

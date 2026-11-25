@@ -1,0 +1,15 @@
+id,x,y,name,river,source,station,official_km2,notes,uparea_km2
+1,16.7375,50.50417,Nysa Kłodzka – Bardo,Nysa Kłodzka,imgw,150160220,,outlet Nysa Kłodzka; flagged: Międzygórze dry dam + Stronie Śląskie dam failure upstream,1736.1
+2,16.6625,50.44583,Nysa Kłodzka – Kłodzko,Nysa Kłodzka,imgw,150160180,1082.0,flagged: Międzygórze dry dam on Wilczka,1075.9
+3,16.64583,50.2875,Nysa Kłodzka – Bystrzyca Kłodzka,Nysa Kłodzka,imgw,150160170,,upper reach unregulated,259.0
+4,16.67917,50.37083,Biała Lądecka – Żelazno,Biała Lądecka,imgw,150160200,,flagged: downstream of Stronie Śląskie dam failure,300.9
+5,16.87083,50.34583,Biała Lądecka – Lądek-Zdrój,Biała Lądecka,imgw,150160230,,flagged: downstream of Stronie Śląskie dam failure,169.9
+6,16.57083,50.4875,Ścinawka – Gorzuchów,Ścinawka,imgw,150160100,,,518.3
+7,16.6625,50.15417,Nysa Kłodzka – Międzylesie,Nysa Kłodzka,imgw,150160190,,headwater,49.5
+8,17.37917,50.32083,Biała Głuchołaska – Głuchołazy,Biała Głuchołaska (Bělá),imgw,150170070,,outlet Bělá; record died ~09:00 15 Sep (peak only),284.9
+9,17.29583,50.2875,Bělá – Mikulovice,Bělá,chmi,0-203-1-313000,222.7,record,222.5
+10,17.2125,50.22917,Bělá – Jeseník,Bělá,chmi,0-203-1-311000,118.1,record; hourly to 16 Sep 23 UTC,118.9
+11,17.17917,50.37083,Vidnavka – Vidnava,Vidnavka,chmi,0-203-1-309000,151.9,outlet Vidnavka; record,152.0
+12,17.42917,50.1125,Opava – Karlovice,Opava,chmi,0-203-1-261200,150.7,outlet Opava (inside forecast box); record; placed on the Opava outlet cell (gauge is ~0.5 km downstream of it),151.9
+13,17.37083,50.15417,Černá Opava – Mnichov,Černá Opava,chmi,0-203-1-258100,50.8,,51.3
+15,17.1625,50.35417,Černý potok – Velká Kraš,Černý potok,chmi,0-203-1-308000,62.5,record,61.6

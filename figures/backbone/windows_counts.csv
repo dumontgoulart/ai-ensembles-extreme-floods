@@ -1,0 +1,12 @@
+event,rain_window,discharge_window,inits,cases <1.5 d,cases 1.5-3.5 d,cases 3.5-5.5 d,cases >=5.5 d,short (-1 d),medium (-2 d),long (-7 d)
+Catalonia,03 Oct 00Z – 06 Oct 00Z,03 Oct 00Z – 07 Oct 21Z,26 Sep – 03 Oct (15),21,28,28,28,02 Oct,01 Oct,26 Sep
+Storm Boris,12 Sep 00Z – 17 Sep 00Z,12 Sep 00Z – 20 Sep 00Z,05 Sep – 11 Sep (14),12,24,24,24,11 Sep,10 Sep,05 Sep
+Central Texas,04 Jul 00Z – 08 Jul 00Z,04 Jul 00Z – 12 Jul 00Z,27 Jun – 03 Jul (14),4,8,8,8,03 Jul,02 Jul,27 Jun
+Texas Hill Country,14 Jul 00Z – 18 Jul 00Z,14 Jul 00Z – 19 Jul 00Z,07 Jul – 14 Jul (15),12,16,16,16,13 Jul,12 Jul,07 Jul
+Mississippi Gulf Coast,17 Jun 00Z – 21 Jun 00Z,17 Jun 00Z – 22 Jun 00Z,10 Jun – 17 Jun (15),12,16,16,16,16 Jun,15 Jun,10 Jun
+Hurricane Helene,25 Sep 00Z – 29 Sep 00Z,25 Sep 00Z – 03 Oct 00Z,18 Sep – 25 Sep (15),15,20,20,20,24 Sep,23 Sep,18 Sep
+Storm Hans,07 Aug 00Z – 10 Aug 00Z,07 Aug 00Z – 15 Aug 00Z,31 Jul – 06 Aug (14),12,24,24,24,06 Aug,05 Aug,31 Jul
+Valais/Vispa,21 Jun 00Z – 23 Jun 00Z; 29 Jun 00Z – 30 Jun 00Z,21 Jun 00Z – 25 Jun 00Z; 29 Jun 00Z – 03 Jul 00Z,14 Jun – 28 Jun (28),4,8,8,20,"20 Jun, 28 Jun","19 Jun, 27 Jun","15 Jun, 22 Jun"
+California ARs,08 Jan 00Z – 11 Jan 00Z; 30 Dec 00Z – 02 Jan 00Z,08 Jan 00Z – 14 Jan 00Z; 30 Dec 00Z – 04 Jan 00Z,24 Dec – 08 Jan (31),12,16,16,32,"08 Jan, 30 Dec","07 Jan, 29 Dec","02 Jan, 24 Dec"
+Storm Kristin,27 Jan 00Z – 01 Feb 00Z,27 Jan 00Z – 02 Feb 00Z,20 Jan – 26 Jan (14),8,16,16,16,26 Jan,25 Jan,20 Jan
+DANA Valencia,29 Oct 00Z – 01 Nov 00Z,29 Oct 00Z – 06 Nov 00Z,22 Oct – 28 Oct (14),6,12,12,12,28 Oct,27 Oct,22 Oct

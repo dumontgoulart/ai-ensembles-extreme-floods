@@ -1,0 +1,11 @@
+id,x,y,name,river,source,station,official_km2,notes
+1,2.20059,41.4506,Santa Coloma de Gramenet (Besòs),Riu Besós,aca,CALC001219|BE-20,1018.25,"main river: Besòs, 937 m3/s on 2026-10-04"
+2,2.26527,41.54672,Montornès del Vallès (Mogent),Riu Mogent,aca,CALC001213|BE-10,181.01,independent
+3,2.18639,41.48783,Montcada i Reixac (Ripoll),Riu Ripoll,aca,CALC001222|BE-15,220.55,independent
+4,2.24565,41.58641,Lliçà de Vall (Tenes),Riu Tenes,aca,CALC001214|BE-07,150.0,independent
+5,2.28406,41.69714,La Garriga (Congost),Riu Congost,aca,CALC001212|BE-05,146.27,independent; Granollers rain ~400 yr is just downstream
+6,2.69389,41.73896,Fogars de la Selva (Tordera),Riu Tordera,aca,CALC001209|TO-20,776.56,main river: Tordera
+7,2.48898,41.68034,Sant Celoni (Tordera),Riu Tordera,aca,CALC001210|TO-10,124.62,nested in TO-20
+8,2.39746,41.75263,Montseny (Tordera),Riu Tordera,aca,CALC001554|TO-05,47.33,"headwater, nested"
+9,2.66932,41.74533,Fogars de la Selva (riera de Santa Coloma),Riera De Santa Coloma,aca,CALC001211|TO-15,322.21,independent tributary of the Tordera
+10,2.54264,41.59278,Arenys de Munt (riera d'Arenys),Riera Arenys,aca,CALC001658|RM-05,11.8,only gauged Maresme riera (12 km2)

@@ -1,0 +1,5 @@
+id,x,y,name,river,source,station,official_km2,notes
+1,-98.8697812,30.22048584,Pedernales Rv nr Fredericksburg,Pedernales River,usgs,08152900,956,"record of 41 yr: 74,500 cfs 16 Jul 14:50 UTC (x1.16); headline, independent"
+2,-98.8971667,29.96523889,Guadalupe Rv at Comfort,Guadalupe River,usgs,08167000,2173,"2nd of 90 yr: 200,000 cfs 16 Jul 13:00 UTC (record 240,000 cfs on 4 Jul 2025); Kerrville regulation flags upstream"
+3,-98.18625,29.50144444,Cibolo Ck nr Saint Hedwig,Cibolo Creek,usgs,08185065,793,"record of 19 yr: 29,100 cfs 16 Jul 12:30 UTC (x1.45); independent"
+4,-98.9793056,29.69438889,Medina Rv abv English Crossing,Medina River,usgs,08178980,1222,"record of 8 yr (x1.01, weak): 12,200 cfs 15 Jul 21:45 UTC; above Medina Lake"

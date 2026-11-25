@@ -1,0 +1,5 @@
+id,x,y,name,river,source,station,official_km2,notes
+1,-121.3216,36.2805,Arroyo Seco nr Soledad,Arroyo Seco,usgs,11152000,632,record of 120 yr: 30700 cfs on 2023-01-09 18:30 UTC; unregulated
+2,-121.0447,38.4997,Cosumnes R at Michigan Bar,Cosumnes River,usgs,11335000,1388,3rd of 119 yr: 67900 cfs on 2022-12-31 17:45 UTC; essentially unregulated
+3,-122.0718,37.0441,San Lorenzo R at Big Trees,San Lorenzo River,usgs,11160500,275,4th of 89 yr (~22 yr): 9 Jan; minor diversion
+4,-121.9557,36.9910,Soquel C at Soquel,Soquel Creek,usgs,11160000,104,3rd of 76 yr (~26 yr): 1 Jan

@@ -1,0 +1,7 @@
+id,x,y,name,river,source,station,official_km2,notes
+1,-82.57806,35.60889,French Broad R at Asheville,French Broad River,usgs,03451500,2447.5,"record of 130 yr: 113000 cfs 2024-09-27 21:38 UTC (1916: 110000); measured, Approved; headline, contains 2 and 3"
+2,-82.595,35.39806,Mills River nr Mills River,Mills River,usgs,03446000,172.8,record of 101 yr (x2.2): 29200 cfs 16:23 UTC; measured; nested in 1
+3,-82.54472,35.56833,Swannanoa R at Biltmore,Swannanoa River,usgs,03451000,336.7,"record (x2.6): 60800 cfs 19:00 UTC ESTIMATED, gaps at peak: peak value only; nested in 1"
+4,-82.18417,35.83139,South Toe R nr Celo,South Toe River,usgs,03463300,112.1,record of 68 yr (x2.2): 70900 cfs 14:30 UTC; measured; independent
+5,-83.07278,35.66722,Cataloochee Cr nr Cataloochee,Cataloochee Creek,usgs,03460000,127.4,"record of 81 yr (x2.5): 12800 cfs 15:30 UTC; independent, national park"
+6,-82.06028,35.68583,Catawba R nr Pleasant Gardens,Catawba River,usgs,02137727,326.3,"record of 45 yr (x1.84): 42400 cfs 17:53 UTC; independent, Catawba basin"

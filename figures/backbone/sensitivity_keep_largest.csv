@@ -1,0 +1,11 @@
+bin,IFS,WN2,tie,table,start,AIFS,AIFS & WN2
+<1.5 d,13,12,6,rain IFS/WN2,,,
+1.5-3.5 d,11,18,2,rain IFS/WN2,,,
+3.5-5.5 d,8,21,2,rain IFS/WN2,,,
+>=5.5 d,3,16,12,rain IFS/WN2,,,
+,13,7,11,peak IFS/WN2,short (-1 d),,
+,9,12,10,peak IFS/WN2,medium (-2 d),,
+,5,6,20,peak IFS/WN2,long (-7 d),,
+,2,0,6,peak 3-way,short (-1 d),1.0,5.0
+,0,0,4,peak 3-way,medium (-2 d),4.0,6.0
+,0,1,9,peak 3-way,long (-7 d),2.0,1.0

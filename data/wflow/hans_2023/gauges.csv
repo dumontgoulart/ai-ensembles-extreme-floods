@@ -1,0 +1,13 @@
+id,x,y,name,river,source,station,official_km2,notes
+12700,9.62473,60.95266,Randselva – Etna,Randselva,nve,12.70.0,568.53,T~104 yr (record); regulated 0.00; independent
+121140,10.02315,60.20725,Sogna – Sogna v/Gardhammarfossen,Sogna,nve,12.114.0,492.33,T~59 yr (record); regulated 0.00; independent
+1280,10.08834,60.9696,Dokka – Grønvold bru,Dokka,nve,12.8.0,934.3,T~43 yr (record); regulated 0.39; independent; 5x mean annual flood
+121970,8.70314,60.95034,Grunka – Grunke,Grunka,nve,12.197.0,184.69,T~46 yr (record); regulated 0.00; independent
+121710,9.45899,60.70962,Hølera – Hølervatn,Hølera,nve,12.171.0,79.4,T~55 yr (record); regulated 0.00; independent
+121500,8.8188,60.48611,Rukkedøla – Buvatn,Rukkedøla,nve,12.150.0,25.05,"T~56 yr (record); regulated 0.00; independent, small"
+12970,9.23141,60.47223,Hallingdalsvassdra – Bergheim,Hallingdalselva,nve,12.97.0,4232.44,T~103 yr (record); regulated 0.45; contains Oppsjø bru; Ål/Gol/Nesbyen flooding
+12990,9.83335,60.07867,Hallingdalsvassdra – Skålfoss,Hallingdalselva,nve,12.99.0,5107.4,T~58 yr (record); regulated 0.41; nested: contains Bergheim
+122900,9.5674,60.80819,Drammensvassdraget – Bagn,Begna,nve,12.290.0,2980.46,T~56 yr (record); regulated 0.42; Ådal flooding
+122000,10.07215,60.82326,Randselva – Kolbjørnshus,Randselva,nve,12.200.0,2063.49,T~45 yr (record); regulated 0.22; contains Etna and Dokka
+121360,9.01873,60.83844,Åbjøra – Tisleifjord ndf.,Åbjøra,nve,12.136.0,620.32,T~61 yr (record); regulated 0.47; regulated share 0.47
+125340,10.00727,59.75292,Drammensvassdraget – Mjøndalen bru,Drammenselva,nve,12.534.0,16989.23,T~19 yr (record); regulated 0.34; main river

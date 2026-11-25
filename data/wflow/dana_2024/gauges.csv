@@ -1,0 +1,7 @@
+id,x,y,name,river,source,station,official_km2,notes
+9000401,-0.57833,39.47083,Poyo at Riba-roja (SAIH 0O04),Rambla del Poyo,chj,9000401,183.9,"CHJ digitised hydrograph, peak 2,283 m3/s (published ~3,200; official Q500 1,200 PGRI); the DANA flash flood source"
+9000402,-0.42,39.42917,Poyo at Paiporta,Rambla del Poyo,model,,412.9,"Paiporta, the worst-hit town; no observation; contains Riba-roja"
+9000403,-0.85333,39.3375,Magro at Forata reservoir (inflow),Magro,chj,chj_forata_inflow,1075.1,"CHJ digitised reservoir inflow, peak 2,017 m3/s; Forata is not a reservoir in the model, so the model point is natural flow; area = model upstream area (no official value)"
+9000404,-0.52,39.22917,Magro at Carlet,Magro,published,,1615.6,"published peak 4,198 m3/s (Munoz et al. 2025, Water 17:3177), no series; contains Forata; Algemesi/l'Alcudia flooding; area = model upstream area (no official value)"
+6227130,-0.50333,39.52083,Turia at La Presa,Turia,chj,6227130,6294.0,"CHJ digitised hydrograph, peak 1,756 m3/s"
+9000405,-0.61167,39.57083,Turia at Vilamarxant,Turia,chj,chj_turia_vilamarxant,5993.6,"CHJ digitised hydrograph, peak 1,946 m3/s; nested in La Presa; area = model upstream area (no official value)"

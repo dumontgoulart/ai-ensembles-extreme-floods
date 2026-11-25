@@ -1,0 +1,5 @@
+id,x,y,name,river,source,station,official_km2,notes
+1,-89.1219444,30.5586111,Biloxi R at Wortham,Biloxi River,usgs,02481000,249,"record of 73 yr: 26,700 cfs 19 Jun 06:45 UTC (x1.98; rating extrapolated above ~29 ft, plausible 22-27k); headline"
+2,-88.7811111,30.7361111,Red Creek at Vestry,Red Creek,usgs,02479300,1142,"record of 65 yr: 46,000 cfs 20 Jun 10:00 UTC (x1.38); independent"
+3,-89.2744444,30.4836111,Wolf R nr Landon,Wolf River,usgs,02481510,798,"2nd of 54 yr: 31,100 cfs 19 Jun 10:30 UTC (x0.93); independent"
+4,-89.4333333,31.48916667,Okatoma Ck at Sanford,Okatoma Creek,usgs,02472850,666,"2nd of 31 yr: 12,500 cfs 19 Jun 13:30 UTC (x0.93); Leaf basin"

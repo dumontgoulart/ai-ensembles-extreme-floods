@@ -1,0 +1,40 @@
+Leave one event out, WN2 rainfall CRPSS (min to max over the events left out):
+  <1.5 d     -0.082 (without texas26) to +0.021 (without jesenik)
+  1.5-3.5 d  +0.011 (without texas26) to +0.077 (without helene)
+  3.5-5.5 d  +0.091 (without texas26) to +0.125 (without jesenik)
+  >=5.5 d    +0.035 (without jesenik) to +0.060 (without helene)
+
+Table S3, IFS / WN2 / tie summed over lead bins or starts:
+  2 %: rainfall 50 / 129 / 9 | peak 49 / 57 / 35 | volume 46 / 69 / 26
+  5 %: rainfall 40 / 114 / 34 | peak 39 / 42 / 60 | volume 41 / 60 / 40
+  10 %: rainfall 30 / 94 / 64 | peak 28 / 34 / 79 | volume 30 / 48 / 63
+
+Three-way 'AIFS & WN2' cases (5 % rule):
+  peak: 13 of 61 gauge-start cases
+  volume: 14 of 61 gauge-start cases
+
+Event-volume CRPSS of WN2 by start, all events / without Helene and Valencia:
+  short (-1 d)   -0.052 / -0.056
+  medium (-2 d)  +0.017 / +0.100
+  long (-7 d)    +0.006 / +0.034
+
+Table S4, ensemble-mean rainfall bias (%) / reference above every member (%), per lead bin:
+  IFS   all events       -52 / 59 | -63 / 72 | -77 / 82 | -84 / 83
+  WN2   all events       -54 / 69 | -61 / 68 | -72 / 74 | -81 / 84
+  IFS   AIFS ENS events  -67 / 68 | -74 / 71 | -79 / 74 | -82 / 74
+  AIFS  AIFS ENS events  -66 / 72 | -68 / 72 | -73 / 74 | -79 / 78
+  WN2   AIFS ENS events  -63 / 72 | -66 / 65 | -71 / 67 | -80 / 80
+
+Table S5, median bias (%) of the ensemble-mean peak / event volume from -1 d, per event:
+  california   peak -47 / – / -62      volume -45 / – / -51
+  catalonia    peak -97 / -98 / -97    volume -93 / -95 / -93
+  dana         peak -94 / – / -98      volume -91 / – / -95
+  hans         peak +8 / – / +7        volume -15 / – / +7
+  helene       peak -67 / – / -69      volume -69 / – / -67
+  jesenik      peak -56 / – / -67      volume -37 / – / -57
+  kristin      peak +9 / +6 / -10      volume +23 / +17 / -4
+  mississippi  peak -85 / -82 / -82    volume -80 / -77 / -75
+  texas25      peak -98 / -98 / -99    volume -98 / -97 / -98
+  texas26      peak -99 / -95 / -94    volume -98 / -94 / -91
+  zermatt      peak -62 / – / -53      volume -86 / – / -61
+  all gauges   peak -64 / – / -73   volume -69 / – / -68
